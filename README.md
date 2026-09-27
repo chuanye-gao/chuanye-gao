@@ -1,6 +1,6 @@
 # Hi, I'm Chuanye Gao 👋
 
-Go backend developer. I contribute to open-source projects, mostly bug fixes.
+Python/Go backend developer. I contribute to open-source projects, mostly bug fixes.
 
 ## Open Source Contributions
 
